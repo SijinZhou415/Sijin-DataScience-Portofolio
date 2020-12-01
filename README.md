@@ -5,5 +5,5 @@
 * Performed text analysis using a Term Document Matrix to look at the frequency of certain words
 * Proposed recommendations from customers, partner, and routes perspectives for American Airlines to improve customers’ satisfaction
 
-![](https://github.com/SijinZhou415/Sijin-DataScience-Portofolio/blob/main/images/Picture1word.png)
-![](https://github.com/SijinZhou415/Sijin-DataScience-Portofolio/blob/main/images/Picture1barplot.png)
+![](/images/Picture1word.png)
+![](/images/Picture1barplot.png)
