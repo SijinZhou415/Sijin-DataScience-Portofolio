@@ -13,3 +13,4 @@
 * Performed quantatitive research and qualitative research according to data collected from qualtrics. Splited data into Pre-Test(freshman) and Post-test(students in other grades) , compared the results from Pre-Test and Post-Test (A year after)
 
 # [Tableau Dashboard Example(Tools: Tableau)](https://public.tableau.com/profile/sijin.zhou6155#!/?newProfile=&activeTab=0)
+* ad-hoc analysis
