@@ -16,6 +16,6 @@
 * Collected data from freshman students and students in other grades using Qultrics to conduct research about how much they know recyling system in the School of Design
 * Performed quantatitive research and qualitative research according to data collected from qualtrics. Splited data into Pre-Test(freshman) and Post-test(students in other grades) , compared the results from Pre-Test and Post-Test (A year after)
 
-# [Project 3: Quantitive Analysis(Tools: RStudio)]
+# [Project 3: Quantitive Analysis(Tools: RStudio)](https://github.com/SijinZhou415/usVaccines_Analysis)
 * Conduct the necessary analyses about Vaccine and provide sufficient numeric and graphical detail for a scientifically knowledgeable staff member in a California state legislator’s office
 * Package I used: • readr • changepoint • BayesFactor • MCMCpack
